@@ -53,7 +53,5 @@
 - Each sheet will act as a complete new sheet, and whole excel page can be saved and accessed together.
 
 
-### Example :
-
 
 ### New Features and improvements will be added time to time in future.
